@@ -1,1 +1,1 @@
-# Lecture-0-CipherSchools
+In this lecture there was no code.
